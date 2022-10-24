@@ -10,6 +10,7 @@ This way, you will eventually sight read your whole collection
 (and remember which pieces were too difficult/noteworthy,
 so you can compare with your past self).
 
+
 ## Usage
 
 ### Linux
@@ -22,3 +23,8 @@ just execute SuperSightReadingChoicer.exe found in Releases
 
 ### macOS
 throw away your computer
+
+## Warning
+
+This program is poorly written and it'd make no sense to continue its developement.
+That said, I personally use it everyday and it gets the job done. Use at your own risk ^_^
